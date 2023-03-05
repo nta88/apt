@@ -1,0 +1,29 @@
+Package: humanity-icon-theme
+Version: 0.6.16
+Architecture: all
+Maintainer: Ubuntu MOTU Developers <ubuntu-motu@lists.ubuntu.com>
+Installed-Size: 20660
+Depends: adwaita-icon-theme, hicolor-icon-theme
+Filename: ./pool/stable/main/humanity-icon-theme_0.6.16_all.deb
+Size: 1247592
+MD5sum: d2c0c7fe48755a161379456426255588
+SHA1: debd5cc38b848a5c95a2612e7f20177de2ee475f
+SHA256: 6f544f0f887d1db37914ec89ad53403963a574994cc5242fc206d5f8949a4005
+Section: gnome
+Priority: optional
+Description: Humanity Icon theme
+ Humanity and Humanity Dark are nice and well polished icon themes for
+ the GNOME desktop.
+
+Package: yaru818-theme
+Version: 22.10.3-5
+Architecture: all
+Maintainer: Nathan Poirier <nathan@poirier.io>
+Recommends: humanity-icon-theme
+Filename: ./pool/stable/main/yaru818-theme_22.10.3-5_all.deb
+Size: 28295812
+MD5sum: 3270590fc9b101a064f17fee747ee171
+SHA1: 4525d74c648ca678452063fd225d6648cfb63cfd
+SHA256: 27ab8f92b528784575cb78ab3e92114c2a6b5db44097a5badfbc3f3d87dfca7e
+Description: Yaru818 theme
+

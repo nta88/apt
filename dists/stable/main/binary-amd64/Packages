@@ -1,0 +1,204 @@
+Package: appimagetool
+Version: 13
+Architecture: amd64
+Maintainer: nta88
+Filename: ./pool/stable/main/appimagetool_13_amd64.deb
+Size: 2030068
+MD5sum: ad3442d960f270cbcc00bc2346f4ee54
+SHA1: 8f9feca506e22305882135bcacd93f814d90924c
+SHA256: 33a4f57dcc7640d058e5513ab58dc60941288a61dfd6ad7d13b0138817418a6e
+Section: admin
+Priority: optional
+Description: appimagetool is a tool to package desktop applications as
+ AppImages.
+
+Package: aws-vault
+Version: 7.0.0
+Architecture: amd64
+Maintainer: nta88
+Filename: ./pool/stable/main/aws-vault_7.0.0_amd64.deb
+Size: 6714192
+MD5sum: 5356f40f4c6c01d0468c1950886465e5
+SHA1: 6d9a718543b164611d3f2edb4cec4cfdfea21d38
+SHA256: c494dc84f655cefc5a60587f3423cb4fe9c28f62d6ce5746a4403190956a5ae6
+Section: admin
+Priority: optional
+Description: aws-vault is a vault for securely storing and accessing AWS
+  credentials in development environments.
+
+Package: buildpacks-pack
+Version: 0.28.0
+Architecture: amd64
+Maintainer: nta88
+Filename: ./pool/stable/main/buildpacks-pack_0.28.0_amd64.deb
+Size: 5918236
+MD5sum: 0cd87c821706997a3fb384f0eda49dfb
+SHA1: d8ffc61cf238d4066a66cd18c50325558bd51fe0
+SHA256: 72b681c3831b2bfe9d54eeb7a49cf98c6a283219b8567cf5a0609e31b14b1999
+Section: admin
+Priority: optional
+Description: pack is a CLI for building apps using Cloud Native Buildpacks.
+
+Package: cidr-merger
+Version: 1.1.3
+Architecture: amd64
+Maintainer: nta88
+Filename: ./pool/stable/main/cidr-merger_1.1.3_amd64.deb
+Size: 515416
+MD5sum: 67d79c7abb4e4505c68352b88ee82cb8
+SHA1: 79d14518e90d6aaf41a2c0535bfceefaeaa367d3
+SHA256: 02c4eede6bce5f1025083ea0f36a65b619e2f4bbe42e065869d798512629916b
+Section: admin
+Priority: optional
+Description: cidr-merger is a simple command line tool to merge ip/ip cidr/ip
+  range.
+
+Package: dive
+Version: 0.10.0
+Architecture: amd64
+Maintainer: Alex Goodman
+Installed-Size: 10960
+Filename: ./pool/stable/main/dive_0.10.0_amd64.deb
+Size: 4242354
+MD5sum: 9e7dac2c6ad1161387374f74e82c1767
+SHA1: b6b65818c848226813636024a88a2266c392f145
+SHA256: 8b29af782887be4919fe3ba87ad10203f9e1bce2e9a8c94b3dff0881945758ab
+Homepage: https://github.com/wagoodman/dive/
+Description: A tool for exploring each layer in a docker image
+
+Package: docker-credential-secretservice
+Version: 0.7.0
+Architecture: amd64
+Maintainer: nta88
+Depends: libsecret-1-0
+Filename: ./pool/stable/main/docker-credential-secretservice_0.7.0_amd64.deb
+Size: 572396
+MD5sum: 36bee6143f3f8001349f4c74998ae392
+SHA1: 54ff303af807768b3f2ea389147cd7d6cc6875e1
+SHA256: 2dba389a34b6e78b4c3684106ab59682f811c473be47a611cbf27b088364d4ac
+Section: admin
+Priority: optional
+Description: docker-credential-secretservice is a credential helper backend
+ which uses libsecret to keep Docker credentials safe.
+
+Package: flowy
+Version: 0.5.0-rc1
+Architecture: amd64
+Maintainer: nta88
+Filename: ./pool/stable/main/flowy_0.5.0-rc1_amd64.deb
+Size: 2584980
+MD5sum: 856b31e8630a956fa4053d9439c169d3
+SHA1: 63f9e99a10f3290e4f44e2c1c96d297304e70203
+SHA256: a36165af9c16f41457b3e6ffc93ff26096d5d202d9ba719fca55aa0db8aefa2a
+Section: utils
+Priority: optional
+Description: flowy is a dynamic wallpaper changer.
+
+Package: humanity-icon-theme
+Version: 0.6.16
+Architecture: all
+Maintainer: Ubuntu MOTU Developers <ubuntu-motu@lists.ubuntu.com>
+Installed-Size: 20660
+Depends: adwaita-icon-theme, hicolor-icon-theme
+Filename: ./pool/stable/main/humanity-icon-theme_0.6.16_all.deb
+Size: 1247592
+MD5sum: d2c0c7fe48755a161379456426255588
+SHA1: debd5cc38b848a5c95a2612e7f20177de2ee475f
+SHA256: 6f544f0f887d1db37914ec89ad53403963a574994cc5242fc206d5f8949a4005
+Section: gnome
+Priority: optional
+Description: Humanity Icon theme
+ Humanity and Humanity Dark are nice and well polished icon themes for
+ the GNOME desktop.
+
+Package: mmdbinspect
+Version: 0.1.1
+Architecture: amd64
+Maintainer: MaxMind, Inc. <support@maxmind.com>
+Installed-Size: 2192
+Filename: ./pool/stable/main/mmdbinspect_0.1.1_amd64.deb
+Size: 900286
+MD5sum: 0913b648ac678f4a946a4ed656e079bd
+SHA1: 71724b17dc24f48ebe50b7b72e01eeabcde16b20
+SHA256: d542f0f645aa42d09c41f8b98f9e2967a2d9ca389751c72386cb98e53d04cf8d
+Homepage: https://www.maxmind.com/
+Description: Program to look up records for one or more IPs/networks in one or more .mmdb databases.
+Vendor: MaxMind, Inc.
+
+Package: ngrok
+Version: 2.3.41
+Architecture: amd64
+Maintainer: <@fc96d802-0fc5-48af-8052-09e3c968e648>
+Installed-Size: 29431
+Filename: ./pool/stable/main/ngrok_2.3.41_amd64.deb
+Size: 13798076
+MD5sum: 93e9e8d4c25ea16f49967d01a5154b10
+SHA1: f491591682c9247f331bfc9a56a2de11d72900e5
+SHA256: 7cdda631c3f809b6e3ee38edc05733b90f7520907cdcbfa0b18f4e5c990b1899
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: no description given
+License: unknown
+Vendor: @fc96d802-0fc5-48af-8052-09e3c968e648
+
+Package: sops
+Version: 3.7.3
+Architecture: amd64
+Maintainer: AJ Bahnken <ajvb+sops@mozilla.com>
+Installed-Size: 28371
+Filename: ./pool/stable/main/sops_3.7.3_amd64.deb
+Size: 12722178
+MD5sum: 17f11814967530c276015b225f823a00
+SHA1: fb0310f0e0990ac82966aca67f14fb2514c449c0
+SHA256: 3ef6368a083657fe3f5656a866756ef940579ac7ae471e9362bfda6814226c55
+Section: default
+Priority: extra
+Homepage: https://go.mozilla.org/sops
+Description: Sops is an editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS and PGP.
+License: MPL2.0
+Vendor: mozilla
+
+Package: sublime-text
+Version: 4143
+Architecture: amd64
+Maintainer: Sublime HQ Pty Ltd <support@sublimetext.com>
+Installed-Size: 51041
+Depends: libgtk-3-0, libcurl3 | libcurl4
+Filename: ./pool/stable/main/sublime-text_build-4143_amd64.deb
+Size: 16599948
+MD5sum: 3576a506e25cbf021a16ab70afbb8bab
+SHA1: f8fc79f99cdd7e77fbecc8dccfbf21a1b159f8a5
+SHA256: e8b09a1205ee8a0928fe63961f2492070e84157735110d51504988d37e3a7e0a
+Section: editors
+Priority: optional
+Description: Sublime Text is a sophisticated text editor for code, markup and prose
+Build-Depends: libgtk-3-0, libcurl3 | libcurl4
+
+Package: xclicker
+Version: 1.4.0
+Architecture: amd64
+Maintainer: robiot
+Depends: libx11-6, libxi6
+Filename: ./pool/stable/main/xclicker_1.4.0_amd64.deb
+Size: 20020
+MD5sum: f8b7e6ba3256e6e3e1f0335c7f1892f5
+SHA1: 49e301d9ec84b443ecaae96b8a9dc2874fcf9427
+SHA256: b7ec00461558804da5eb115ea9fcc14c756f81332849960484e897eecd2ab8c0
+Section: base
+Priority: optional
+Description: Fast gui autoclicker for linux
+Vcs-Git: https://github.com/robiot/rustcat
+
+Package: yaru818-theme
+Version: 22.10.3-5
+Architecture: all
+Maintainer: Nathan Poirier <nathan@poirier.io>
+Recommends: humanity-icon-theme
+Filename: ./pool/stable/main/yaru818-theme_22.10.3-5_all.deb
+Size: 28295812
+MD5sum: 3270590fc9b101a064f17fee747ee171
+SHA1: 4525d74c648ca678452063fd225d6648cfb63cfd
+SHA256: 27ab8f92b528784575cb78ab3e92114c2a6b5db44097a5badfbc3f3d87dfca7e
+Description: Yaru818 theme
+
