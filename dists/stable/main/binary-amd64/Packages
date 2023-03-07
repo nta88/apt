@@ -191,14 +191,14 @@ Description: Fast gui autoclicker for linux
 Vcs-Git: https://github.com/robiot/rustcat
 
 Package: yaru818-theme
-Version: 22.10.3-5
+Version: 22.10.3-6
 Architecture: all
 Maintainer: Nathan Poirier <nathan@poirier.io>
 Recommends: humanity-icon-theme
-Filename: ./pool/stable/main/yaru818-theme_22.10.3-5_all.deb
-Size: 28295812
-MD5sum: 3270590fc9b101a064f17fee747ee171
-SHA1: 4525d74c648ca678452063fd225d6648cfb63cfd
-SHA256: 27ab8f92b528784575cb78ab3e92114c2a6b5db44097a5badfbc3f3d87dfca7e
+Filename: ./pool/stable/main/yaru818-theme_22.10.3-6_all.deb
+Size: 28291212
+MD5sum: 539c66eb7fcb3d073e9d804edb632548
+SHA1: a2c3e11c7c6d2bc2ed0e8b769c95a5e0c0d38835
+SHA256: a2faccf689cf5a332a0759b98c278b6e3df4f3d6556c0497305523bb749ee441
 Description: Yaru818 theme
 

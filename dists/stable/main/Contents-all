@@ -1,3 +1,4 @@
+etc/apparmor.d/abstractions/base.d/yaru818-theme	    yaru818-theme
 opt/yaru818-theme/configure-flatpak			    yaru818-theme
 opt/yaru818-theme/gnome-shell/theme/Yaru818-dark/calendar-today-light.svg yaru818-theme
 opt/yaru818-theme/gnome-shell/theme/Yaru818-dark/calendar-today.svg yaru818-theme
