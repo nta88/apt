@@ -13,14 +13,14 @@ Description: appimagetool is a tool to package desktop applications as
  AppImages.
 
 Package: aws-vault
-Version: 7.0.0
+Version: 7.0.1
 Architecture: amd64
 Maintainer: nta88
-Filename: ./pool/stable/main/aws-vault_7.0.0_amd64.deb
-Size: 6714192
-MD5sum: 5356f40f4c6c01d0468c1950886465e5
-SHA1: 6d9a718543b164611d3f2edb4cec4cfdfea21d38
-SHA256: c494dc84f655cefc5a60587f3423cb4fe9c28f62d6ce5746a4403190956a5ae6
+Filename: ./pool/stable/main/aws-vault_7.0.1_amd64.deb
+Size: 6715248
+MD5sum: 4f3ec63c73087a88fe01ae732a28532c
+SHA1: 841d487acc341402559c112b663b90c06f136616
+SHA256: c4dc495f6257d9e340cdc4a6aeeec0587a9f1eb0feff738e9a8f14251c7ddf3e
 Section: admin
 Priority: optional
 Description: aws-vault is a vault for securely storing and accessing AWS
